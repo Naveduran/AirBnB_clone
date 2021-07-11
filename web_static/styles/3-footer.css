@@ -1,0 +1,12 @@
+footer{
+    height: 60px;
+    width: 100%;
+    position: fixed; /*always at the bottom even if scrolled*/
+    bottom: 0; /*always at the bottom even if scrolled*/
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #CCCCCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,10 @@
+footer{
+    background-color:#00FF00;
+    height: 60px;
+    width: 100%;
+    position: fixed; /*always at the bottom even if scrolled*/
+    bottom: 0; /*always at the bottom even if scrolled*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

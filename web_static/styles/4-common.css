@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    padding:0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif; /*mandatory*/
+}
+.container{
+    max-width: 1000px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    /* center this, avoiding flexing the body*/
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+}
+
