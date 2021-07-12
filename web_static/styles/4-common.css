@@ -8,15 +8,16 @@ body {
 
 .container{
     max-width: 1000px;
-    margin: 30px;
+    margin: 30px auto;
+    /*
     display: flex;
     flex-direction: row;
     justify-content: center;
+    */
 
-    /* center this, avoiding flexing the body*/
+    /* center this, avoiding flexing the body
     transform: translateX(-50%);
     left: 50%;
-    right: 50%;
-    position: relative;
+    position: relative;*/
 }
 
