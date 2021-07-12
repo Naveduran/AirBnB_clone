@@ -5,9 +5,12 @@ header{
     border-bottom-style: solid;
     border-bottom-width: 1px;
     border-bottom-color: #CCCCCC;
+}
 
+h6{
+    /*image*/
     margin-left: 20px; /*20 px at left*/
     line-height: 60px; /*vertically centered*/
-    background-image: url('../images/logo.png');
+    background-image: url("../images/logo.png");
     background-repeat: no-repeat;
 }
