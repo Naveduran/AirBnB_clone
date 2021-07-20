@@ -3,8 +3,7 @@ Welcome to our AirBnB console proyect.
 
 
 <div align="center">
-<!--img src="UMLdiagram.png"/-->
-<p>UML diagram</p>
+[UML diagram](https://imgur.com/qlTfQst)
 </div>
 
 > ## Synopsis
@@ -20,7 +19,7 @@ Our command interpreter is limited to a single use-case (managing the objects of
 -   Destroy an object
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/E5OfUqaX0AIQ-WK?format=jpg&name=small"/>
+![Project Scope](https://pbs.twimg.com/media/E5OfUqaX0AIQ-WK?format=jpg&name=small)
 <p>Project scope</p>
 </div>
 
