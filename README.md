@@ -1,8 +1,7 @@
 # AirBnB clone - console
 Welcome to our AirBnB console proyect.
 
-![UML diagram](https://imgur.com/qlTfQst)
-
+[UML diagram](https://i.imgur.com/qlTfQstl.png)
 
 > ## Synopsis
 
@@ -16,7 +15,7 @@ Our command interpreter is limited to a single use-case (managing the objects of
 -   Update attributes of an object
 -   Destroy an object
 
-![Project Scope](https://pbs.twimg.com/media/E5OfUqaX0AIQ-WK?format=jpg&name=small)
+[Project Scope](https://pbs.twimg.com/media/E5OfUqaX0AIQ-WK?format=jpg&name=small)
 
 ---------------------------------------------------------
 >## Content
