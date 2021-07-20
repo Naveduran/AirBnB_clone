@@ -3,7 +3,7 @@ Welcome to our AirBnB console proyect.
 
 
 <div align="center">
-<img src="UMLdiagram.png"/>
+<!--img src="UMLdiagram.png"/-->
 <p>UML diagram</p>
 </div>
 
